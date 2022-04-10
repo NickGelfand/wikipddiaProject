@@ -1,0 +1,3 @@
+[submodule "wikipddiaProject"]
+	path = wikipddiaProject
+	url = https://github.com/NickGelfand/wikipddiaProject.git
