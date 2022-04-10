@@ -1,0 +1,71 @@
+.StyleLink{
+    color: blue;
+    text-decoration:underline blue;
+}
+.imgPosi{
+    position: relative;
+    display: flex;
+    justify-content:flex-end;
+    align-items: center;
+    top: 90px;
+}
+
+.imgPosi2{
+    position: absolute;
+}
+.h1Style{
+    
+    border-bottom: 5px solid black;
+}
+
+.imgPosiText{
+    
+  
+    border:2px solid grey ;
+}
+
+.refStyle{  
+    position: absolute;
+    width: 150px;
+    height: 100px;
+   
+}
+
+.divStyle
+{
+    position: relative;
+    width: 150px;
+    height: 150px;
+    border: 3px solid black
+}
+
+
+
+.secImg{
+    position: relative;
+    display: flex;
+    justify-content:flex-end;
+    align-items: center;
+    top: 130px;
+    
+}
+
+.secImg2{
+    position: absolute;
+}
+
+.pPos{
+    position:absolute;
+    display: flex;justify-content: flex-end;
+    align-items: flex-end;
+    top: 110px;
+    border: 2px solid gray;
+}
+
+.pBord{
+    position:absolute;
+    display: flex;justify-content: flex-end;
+    align-items: flex-end;
+    top: 140px;
+    border: 2px solid gray;
+}
